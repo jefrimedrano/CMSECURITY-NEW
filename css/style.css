@@ -8612,6 +8612,7 @@ h1, h2, h3, h4, h5,
   width: 100%;
   position: relative;
   background: #fff;
+  margin-bottom:15px;
   -webkit-box-shadow: 0px 8px 21px -10px rgba(0, 0, 0, 0.08);
   -moz-box-shadow: 0px 8px 21px -10px rgba(0, 0, 0, 0.08);
   box-shadow: 0px 8px 21px -10px rgba(0, 0, 0, 0.08);
@@ -8682,7 +8683,7 @@ h1, h2, h3, h4, h5,
         color: #dc3545; }
   @media (max-width: 991.98px) {
     .services {
-      margin-bottom: 30px; } }
+      margin-bottom: 100px; } }
 
 .services-2 {
   width: 100%;
@@ -8825,7 +8826,7 @@ h1, h2, h3, h4, h5,
       color: #000000;
       margin-bottom: 5px; }
     .staff .text .position {
-      color: #00bd56;
+      color: #2d95d1;
       display: block;
       font-weight: 600;
       display: inline-block;
@@ -8854,15 +8855,7 @@ h1, h2, h3, h4, h5,
         color: #fff;
         width: 30px;
         height: 30px;
-        background: #00bd56;
-        background: #207dff;
-        background: -moz-linear-gradient(45deg, #207dff 0%, #00bd55 100%);
-        background: -webkit-gradient(left bottom, right top, color-stop(0%, #207dff), color-stop(100%, #00bd55));
-        background: -webkit-linear-gradient(45deg, #207dff 0%, #00bd55 100%);
-        background: -o-linear-gradient(45deg, #207dff 0%, #00bd55 100%);
-        background: -ms-linear-gradient(45deg, #207dff 0%, #00bd55 100%);
-        background: linear-gradient(45deg, #207dff 0%, #00bd55 100%);
-        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#207dff', endColorstr='#00bd55', GradientType=1 );
+        background:#207dff;
         -webkit-border-radius: 50%;
         -moz-border-radius: 50%;
         -ms-border-radius: 50%;
@@ -8877,7 +8870,7 @@ h1, h2, h3, h4, h5,
     .staff:hover .img, .staff:focus .img {
       margin-top: -10px; }
     .staff:hover .text, .staff:focus .text {
-      background: #00bd56;
+      background: #ed2038;
       color: rgba(255, 255, 255, 0.8); }
       .staff:hover .text h3, .staff:focus .text h3 {
         color: #fff; }
@@ -9238,7 +9231,8 @@ textarea.form-control {
 
 .heading-section h2 {
   font-size: 30px;
-  font-weight: 800; }
+  font-weight: 800;
+color: #2d95d1; }
   @media (max-width: 767.98px) {
     .heading-section h2 {
       font-size: 28px; } }
