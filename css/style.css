@@ -1547,7 +1547,7 @@ pre {
     }
     
     .pricing-card .pc-header-segundario {
-      background: #d45243;
+      background: #dc3646;
       padding: 50px 20px 70px;
     }
     
@@ -1613,7 +1613,7 @@ pre {
       justify-content: center;
       background-color: white;
       border-top: solid 3px white;
-      border-bottom: solid 3px #d45243;
+      border-bottom: solid 3px #dc3646;
       border-radius: 50%;
       margin-top: -47px;
       padding: 15px;
@@ -1656,7 +1656,7 @@ pre {
       min-width: 110px;
       padding: 14px 25px;
       border-radius: 45px;
-      background: #d45243;
+      background: #dc3646;
       cursor: pointer;
       text-align: center;
     }
@@ -2194,12 +2194,12 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #d45243;
-  border-color: #007bff; }
+  background-color: #dc3646;
+}
   .btn-primary:hover {
-    color: #d45243;
+    color: #dc3646;
     background-color: white;
-    border-color: #d45243; }
+    border-color: #dc3646; }
   .btn-primary:focus, .btn-primary.focus {
     -webkit-box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
     box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5); }
@@ -3512,7 +3512,7 @@ input[type="button"].btn-block {
     cursor: default; }
 
 .nav-tabs {
-  border-bottom: 1px solid #ed2038; 
+  border-bottom: 1px solid #dc3545; 
 }
   .nav-tabs .nav-item {
     margin-bottom: -1px; 
@@ -8544,13 +8544,13 @@ h1, h2, h3, h4, h5,
   .btn:hover, .btn:active, .btn:focus {
     outline: none; }
   .btn.btn-primary {
-    background: #d45243;
-    border: 1px solid #00bd56;
+    background: #dc3646;
+    border: 1px solid;
     color: #fff; }
     .btn.btn-primary:hover {
-      border: 1px solid #d45243;
+      border: 1px solid #dc3646;
       background: #fff;
-      color: #d45243; }
+      color: #dc3646; }
     .btn.btn-primary.btn-outline-primary {
       border: 1px solid #00bd56;
       background: transparent;
@@ -9134,9 +9134,9 @@ textarea.form-control {
       bottom: -4px;
       left: 0;
       content: '';
-      width: 40px;
+      width: 50px;
       height: 4px;
-      background: #00bd56; }
+      background: #dc3646; }
   .footer ul.list-unstyled li a {
     color: rgba(255, 255, 255, 0.7); }
   .footer .block-21 .img {
@@ -9167,7 +9167,7 @@ textarea.form-control {
       color: rgba(255, 255, 255, 0.4); }
   .footer .ftco-footer-social li a {
     background: rgba(255, 255, 255, 0.1);
-    color: #00bd56; }
+    color: #dc3646; }
 
 .ftco-footer-social li {
   list-style: none;
@@ -9688,7 +9688,7 @@ color: #2d95d1; }
     .block-21 .text .heading a {
       color: #000000; }
       .block-21 .text .heading a:hover, .block-21 .text .heading a:active, .block-21 .text .heading a:focus {
-        color: #00bd56; }
+        color: #dc3545; }
   .block-21 .text .meta > div {
     display: inline-block;
     font-size: 12px;
